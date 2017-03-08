@@ -1,0 +1,8 @@
+D:\MyText\UnityProject\ShowTrail\Temp\bin\Debug\Assembly-CSharp.dll
+D:\MyText\UnityProject\ShowTrail\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\MyText\UnityProject\ShowTrail\Temp\bin\Debug\UnityEditor.dll
+D:\MyText\UnityProject\ShowTrail\Temp\bin\Debug\UnityEngine.dll
+D:\MyText\UnityProject\ShowTrail\Temp\bin\Debug\nunit.framework.dll
+D:\MyText\UnityProject\ShowTrail\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\MyText\UnityProject\ShowTrail\obj\Debug\Assembly-CSharp.dll
+D:\MyText\UnityProject\ShowTrail\obj\Debug\Assembly-CSharp.pdb
